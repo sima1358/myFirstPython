@@ -23,7 +23,7 @@ playerScores = [0 for _ in range(players)]
 while max(playerScores) < maxScore:
 
     for playerIndex in range(players)
-    print("\nplayer number", playerIndex + 1, "turn has just started!\n")
+    print("\nPlayer number", playerIndex + 1, "Turn has just started!\n")
     currentScore = 0
 
     while True:
