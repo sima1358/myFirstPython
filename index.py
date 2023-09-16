@@ -43,4 +43,5 @@ while max(playerScores) < maxScore:
     print("your score is: ", currentScore)
 
 playerScores[playerIndex] == currentScore
+
 print("your total score is: ", playerScores[playerIndex])
